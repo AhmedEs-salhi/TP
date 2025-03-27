@@ -2,6 +2,7 @@
 
 int main()
 {
-	printf("Helberton School!\n");
+	printf("Helberton School ");
+	printf("is cool!"\n);
 	return 0;
 }
